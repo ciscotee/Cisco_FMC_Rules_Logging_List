@@ -6,6 +6,7 @@ The Code use for List the logging setting in each rule under policy managed by C
 ## Requirements
 
   > [!IMPORTANT]
+  >  -  Enable REST API on Cisco Secure Firewall Management Center.
   >  -  Create New User with Role "Access Admin" or create new user role with Policies > Access Control permission.
   >  -  Running machine need to access Cisco Secure Firewall Management Center.
   >  -  Running machine need python3 and pip3.
